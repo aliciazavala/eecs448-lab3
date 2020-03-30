@@ -1,0 +1,21 @@
+body{
+  max-width: 500px;
+  margin: auto;
+  margin-top: 200px;
+  font-family: 'Roboto', sans-serif;
+}
+
+label{
+    display: block;
+    margin-top: 20px;
+}
+
+button{
+  display: block;
+
+  margin-top: 30px;
+}
+
+h1{
+margin: auto;
+}
