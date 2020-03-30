@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://wallpapercave.com/wp/wp5763653.jpg);
+    padding-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.container{
+    background-color: rgba(248, 250, 252, 0.616);
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+#pp{
+    width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+
+a:hover{
+  
+    color: rgb(18, 59, 18);
+}
+h1{
+    color: rgb(18, 59, 18);
+}
+.video{
+    padding-top: 20px;
+}
