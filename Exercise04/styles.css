@@ -11,19 +11,22 @@ p{
 }
 
 .border{
-    float: left;
+    display:inline-block;
     padding-left: 40%;
+    
 }
 
 .background{
-    float: right;
-    padding-right: 40%;
+    display:inline-block;
+    margin-left: 50px;
+    
 }
 
 .click{
     padding-top: 50px;
     float: right;
     padding-right: 48%;
+    
 }
 
 .click button{
